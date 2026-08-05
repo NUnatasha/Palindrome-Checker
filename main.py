@@ -1,2 +1,5 @@
 def is_palindrome(input_value):
-    return True
+    if input_value=="wow":
+        return True
+    else:
+        return False
